@@ -1,8 +1,9 @@
 {
   "name": "@liufeihe/tiny",
   "version": "1.0.2",
-  "description": "",
-  "main": "index.js",
+  "description": "first node modules",
+  "main": "dist/index",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
