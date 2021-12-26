@@ -1,7 +1,7 @@
 {
   "name": "@liufeihe/tiny",
-  "version": "1.0.2",
-  "description": "first node modules",
+  "version": "1.0.3",
+  "description": "try node module",
   "main": "dist/index",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -19,5 +19,8 @@
     "access": "public"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.28.2"
+  }
 }
